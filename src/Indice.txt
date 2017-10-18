@@ -1,0 +1,25 @@
+
+
+#Indice de métodos do Sigaa.st
+
+Linha 8-> iniciar
+Linha 98 -> alocarProfessor:
+Linha 183 -> criarTurmasPadrao
+Linha 207 -> criarTurmas (Novas turmas)
+Linha 233 -> removerProfessor
+Linha 260 -> LerArquivoDisciplina:
+Linha 284 -> lerArquivoGradeCC:
+Linha 301 -> lerArquivoGradeEC:
+Linha 318 -> lerArquivoGradeSI:
+Linha 335 -> lerArquivoProfessor:
+Linha 355 -> normalizarVetor
+Linha 451 -> consultarDisciplinaPeloCodigo:
+Linha 469 -> consultarDisciplinaPeloNome
+Linha 485 -> consultarGradeCurricularEC
+Linha 572 -> consultarGradeCurricularCC
+Linha 643 -> consultarGradeCurricularSI
+Linha 732 -> relatorioCargaHorariaProfessor
+Linha 782 -> relatorioTodasTurmas
+Linha 827 -> relatorioTurmaSemProfessor
+Linha 852 -> turmasPorDocente:
+Linha 874 -> escreverOfertaPeriodo
